@@ -1,0 +1,17 @@
+{
+  "name": "api-iothings",
+  "version": "1.0.0",
+  "description": "API do app IOThings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "BERNARDO",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
